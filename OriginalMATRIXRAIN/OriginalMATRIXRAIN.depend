@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1621181851 source:d:\project\originalmatrixrain\matrixrain.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro5.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_color.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1623936307 source:d:\project\practises\x.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro5.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_image.h>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1622554491 source:d:\project\gamroo\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<allegro5/allegro5.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_image.h>
+
